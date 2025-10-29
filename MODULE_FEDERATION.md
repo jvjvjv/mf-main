@@ -25,7 +25,7 @@ To activate Module Federation, uncomment the webpack configuration in `next.conf
 
 ### Usage
 
-The Dashboard component (`app/components/Dashboard.tsx`) is designed to be:
+The Dashboard component (`components/Dashboard.tsx`) is designed to be:
 - Used locally in this application
 - Exposed to other federated applications via Module Federation
 
